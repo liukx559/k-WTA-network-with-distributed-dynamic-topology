@@ -5,7 +5,8 @@
 
 ## 项目说明：
 
-本项目分为4个部分的实验
+本项目分为4个部分的实验:
+
 1、k-WTA在时变动态图中的实验（time varing graphs）
 
 2、k-WTA在联合连通图中的实验（jointly connected）
