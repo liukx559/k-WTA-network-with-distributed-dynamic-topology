@@ -21,6 +21,8 @@
 
 `input_data.m`：k-WTA模型输入
 
+`G.csv`：拓扑图的邻接矩阵
+
 ## 实验环境
 Matlab2016b
 
