@@ -30,7 +30,7 @@ Windows11
 
 ## 项目声明
 ```
-项目名称：k-WTA-network-with-distributed-dynamic-topology
+项目名称：k-WTA network with distributed dynamic topology
 项目作者：Kexin Liu
 作者单位：暨南大学网络空间安全学院（College of Cyberspace Security, Jinan University）
 ```
